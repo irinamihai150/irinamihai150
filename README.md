@@ -2,10 +2,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Y06e2KFCG48qwNMGK2/giphy.gif" width="100"/>
 </div>
-
-logo={your social network icon name}
-logoColor={color of the icon}
-
 <div id="badges">
  <img src="https://komarev.com/ghpvc/?username=irinamihai150&style=flat-square&color=blue" alt=""/>
   <h1>
