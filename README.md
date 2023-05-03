@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irina</h1>
-<h3 align="center">I am Irina. I succesfully graduated from Code Your Future as a Full-Stack Developer.</h3>
+<p align="center">Driven to pursue a career in IT after several years in a different industry. Completed an intensive 8-month bootcamp with CODEYOURFUTURE for software development and building an understanding of programming (PERN Stack). Committed to learning and growing in this field, I am now eager to take on fresh challenges in the software development industry </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irinamihai150&label=Profile%20views&color=0e75b6&style=flat" alt="irinamihai150" /> </p>
 
