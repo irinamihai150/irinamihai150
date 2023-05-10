@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irina</h1>
-<p align="center">After several years in a different industry,  have transitioned to a career in IT  from the educational publishing industry and completed an intensive 11-month training program with CODEYOURFUTURE  acquiring knowledge in web development. Throughout my studies,  have come to realize that the IT  is constantly evolving and there is always something new to learn. </p>
+<p align="center">After several years in a different industry,  have transitioned to a career in IT  from the educational publishing industry and completed an intensive 11-month training program with Code Your Future  acquiring knowledge in web development. Throughout my studies,  have come to realize that the IT  is constantly evolving and there is always something new to learn. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irinamihai150&label=Profile%20views&color=0e75b6&style=flat" alt="irinamihai150" /> </p>
 
