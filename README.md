@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://gifdb.com/images/high/garfield-hi-there-greetings-brbfi0t9qovtvj04.gif" align="center" style="width: 100%" />
+<img src="https://gifdb.com/images/high/garfield-hi-there-greetings-brbfi0t9qovtvj04.gif" align="center" style="width: 80%" />
 </div>  
   
 
