@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">After several years in a different industry, have transitioned to a career in IT from the educational publishing industry and completed an intensive 11-month training program with Code Your Future acquiring knowledge in web development. Throughout my studies, have come to realize that the IT is constantly evolving and there is always something new to learn.</div>  
+### <div align="center">After several years in a different industry,  have transitioned to a career in IT  from the educational publishing industry and completed an intensive 11-month training program with Code Your Future  acquiring knowledge in web development. As a graduate developer, I am excited to contribute my enthusiasm, fresh perspectives, and eagerness to learn to a dynamic software development team. Seeking an opportunity to further enhance my skills, grow professionally, and make a meaningful contribution to innovative software projects.</div>  
   
 
 - 🔭 I’m currently working on my portfolio(https://github.com/irinamihai150/v-portfolio)  
