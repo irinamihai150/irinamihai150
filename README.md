@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">After several years in a different industry,  have transitioned to a career in IT  from the educational publishing industry and completed an intensive 11-month training program to acquire knowledge in web development. Excited to contribute my enthusiasm, fresh perspectives, and eagerness to learn to a dynamic software development team and seek an opportunity to further enhance my skills, grow professionally, and make a meaningful contribution to innovative software projects. Eligible to work in the U.K. without the need for sponsorship.</div>  
+### <div align="center">After several years in a different industry, completed an intensive 11-month training program to acquire knowledge in web development. Excited to contribute my enthusiasm, fresh perspectives, and eagerness to learn to a dynamic software development team and seek an opportunity to further enhance my skills, grow professionally, and make a meaningful contribution to innovative software projects., with a keen interest in back-end and cloud infrastructure.</div>  
   
 
 - 🔭 I’m currently working on my portfolio(https://github.com/irinamihai150/v-portfolio)  
