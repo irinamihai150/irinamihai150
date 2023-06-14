@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on my portfolio(https://github.com/irinamihai150/v-portfolio)  
   
 
-- 🌱 I’m currently learning Tailwind and working on a Ecommerce website.
+- 🌱 I’m currently learning React.
   
 
 - ❓ Ask me about my projects  
