@@ -3,7 +3,10 @@
 </div>  
   
 
-### <div align="center">After several years in a different industry, completed an intensive 11-month training program to acquire knowledge in web development. Excited to contribute my enthusiasm, fresh perspectives, and eagerness to learn to a dynamic software development team and seek an opportunity to further enhance my skills, grow professionally, and make a meaningful contribution to innovative software projects., with a keen interest in back-end and cloud infrastructure.</div>  
+### <div align="center">Results-driven professional with great problem-solving skills and the ability to effectively prioritise and manage demanding workloads due to my background in Operations. Can effectively work under pressure whilst still ensuring attention to detail and maximum efficiency.
+Passionate about technology, successfully completed an immersive 11-month software development training program focused on web development with a keen interest in back-end and cloud infrastructure.
+Excited to contribute my fresh perspectives and eagerness to learn to a dynamic software development team and seek an opportunity to grow professionally and make a meaningful contribution to innovative software projects.
+</div>  
   
 
 - 🔭 I’m currently working on my portfolio(https://github.com/irinamihai150/v-portfolio)  
