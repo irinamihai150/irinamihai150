@@ -1,5 +1,5 @@
 <div align="center">
-![profilepic](https://github.com/irinamihai150/irinamihai150/assets/104944750/bc32e9df-49c9-4d75-828d-3f6780b72841)
+![profilepic](https://www.canva.com/design/DAFpTLwDYeI/M10UnGZv-z31kPd0xO6lRA/view?utm_content=DAFpTLwDYeI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
 
 </div>  
