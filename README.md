@@ -1,6 +1,5 @@
 <div align="center">
-<!-- ![profilepic](https://www.canva.com/design/DAFpTLwDYeI/M10UnGZv-z31kPd0xO6lRA/view?utm_content=DAFpTLwDYeI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview) -->
-[![Profile Pic](https://www.canva.com/design/DAFpTLwDYeI/watch)
+[![Profile Pic](https://www.canva.com/design/DAFpTLwDYeI/M10UnGZv-z31kPd0xO6lRA/watch?utm_content=DAFpTLwDYeI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 </div>  
 
 
