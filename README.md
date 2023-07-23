@@ -1,5 +1,6 @@
-<div align="center">
-[![Profile Pic](https://www.canva.com/design/DAFpTLwDYeI/M10UnGZv-z31kPd0xO6lRA/watch?utm_content=DAFpTLwDYeI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+<div align="center">![Uploading profilepic.gif…]()
+
+
 </div>  
 
 
