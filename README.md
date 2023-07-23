@@ -1,9 +1,3 @@
-<div align="center">
-  ![Uploading profilepic.gif…]()
-
-
-</div>  
-
 
 
 ### <div align="center">Results-driven professional with great problem-solving skills and the ability to effectively prioritise and manage demanding workloads due to my background in Operations. Can effectively work under pressure whilst still ensuring attention to detail and maximum efficiency.
