@@ -8,7 +8,7 @@
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFpTLwDYeI&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFpTLwDYeI&#x2F;watch?utm_content=DAFpTLwDYeI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Black Modern Geometric Personal LinkedIn Banner</a> by irina mihai
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFpTLwDYeI&#x2F;watch?utm_content=DAFpTLwDYeI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Black Modern Geometric Personal LinkedIn Banner</a>
 </div>  
 
 
