@@ -1,5 +1,6 @@
 <div align="center">
-  ![Black Modern Geometric Personal LinkedIn Banner (3)](https://github.com/irinamihai150/irinamihai150/assets/104944750/920fe431-a75a-43bc-b75d-2c607f3e6d4d)
+![profilepic](https://github.com/irinamihai150/irinamihai150/assets/104944750/bc32e9df-49c9-4d75-828d-3f6780b72841)
+
 </div>  
 
 
