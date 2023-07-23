@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://www.canva.com/design/DAFpTLwDYeI/q9k5EEqomITobFhQZPxe_A/edit?analyticsCorrelationId=6be4dc38-4651-427e-a98d-cf245cc34761" align="center" style="width: 50%" />
+  ![Black Modern Geometric Personal LinkedIn Banner (3)](https://github.com/irinamihai150/irinamihai150/assets/104944750/920fe431-a75a-43bc-b75d-2c607f3e6d4d)
 </div>  
-  
+
+
 
 ### <div align="center">Results-driven professional with great problem-solving skills and the ability to effectively prioritise and manage demanding workloads due to my background in Operations. Can effectively work under pressure whilst still ensuring attention to detail and maximum efficiency.
 Passionate about technology, successfully completed an immersive 11-month software development training program focused on web development with a keen interest in back-end and cloud infrastructure.
