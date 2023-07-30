@@ -1,4 +1,5 @@
 
+![irinamihai (6)](https://github.com/irinamihai150/irinamihai150/assets/104944750/739d8381-1efc-40e0-a854-440783473f25)
 
 ### <div align="center">Results-driven professional with great problem-solving skills and the ability to effectively prioritise and manage demanding workloads due to my background in Operations. Can effectively work under pressure whilst still ensuring attention to detail and maximum efficiency.
 Passionate about technology, successfully completed an immersive 11-month software development training program focused on web development with a keen interest in back-end and cloud infrastructure.
