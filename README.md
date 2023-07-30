@@ -10,7 +10,7 @@ Excited to contribute my fresh perspectives and eagerness to learn to a dynamic 
 - 🔭 I’m currently working on my portfolio(https://github.com/irinamihai150/v-portfolio)  
   
 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Tailwind.
   
 
 - ❓ Ask me about my projects  
