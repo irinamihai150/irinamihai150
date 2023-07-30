@@ -7,7 +7,7 @@ Excited to contribute my fresh perspectives and eagerness to learn to a dynamic 
 </div>  
   
 
-- 🔭 I’m currently working on my portfolio(https://github.com/irinamihai150/v-portfolio)  
+- 🔭 I’m currently working on my portfolio. 
   
 
 - 🌱 I’m currently learning Tailwind.
