@@ -1,5 +1,7 @@
 
 ![irinamihai (6)](https://github.com/irinamihai150/irinamihai150/assets/104944750/739d8381-1efc-40e0-a854-440783473f25)
+<h1 align="center">Hi 👋, I'm Irina</h1>
+<h3 align="center">I am a Junior Full Stack software Developer</h3>
 
 ### <div align="center">Results-driven professional with great problem-solving skills and the ability to effectively prioritise and manage demanding workloads due to my background in Operations. Can effectively work under pressure whilst still ensuring attention to detail and maximum efficiency.
 Passionate about technology, successfully completed an immersive 11-month software development training program focused on web development with a keen interest in back-end and cloud infrastructure.
@@ -7,8 +9,7 @@ Excited to contribute my fresh perspectives and eagerness to learn to a dynamic 
 </div>  
   
 
-<h1 align="center">Hi 👋, I'm Irina</h1>
-<h3 align="center">I am a Junior Full Stack software Developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irinamihai150&label=Profile%20views&color=0e75b6&style=flat" alt="irinamihai150" /> </p>
 
