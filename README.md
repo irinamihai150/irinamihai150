@@ -72,7 +72,7 @@ Excited to contribute my fresh perspectives and eagerness to learn to a dynamic 
 <!-- <a href="https://github.com/https://github.com/irinamihai150" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a> -->
-  - 📫 How to reach me **irinamihai150@gmail.com**
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/irinamih/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
