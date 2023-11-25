@@ -15,9 +15,9 @@ Excited to contribute my fresh perspectives and eagerness to learn to a dynamic 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irinamihai150" alt="irinamihai150" /></a> </p>
 
-- 🔭 I’m currently working on [Journal-app](https://journalapp-im.netlify.app/)
+- 🔭 I’m currently working on E-commerce app
 
-- 🌱 I’m currently learning **tailwind, typescript**
+- 🌱 I’m currently learning **tailwind**
 
 - 👨‍💻 All of my projects are available at [https://github.com/irinamihai150](https://github.com/irinamihai150)
 
