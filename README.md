@@ -3,11 +3,6 @@
 <h1 align="center">Hi 👋, I'm Irina</h1>
 <h3 align="center">I am a Junior Full Stack software Developer</h3>
 
-### <div align="center">Results-driven professional with great problem-solving skills and the ability to effectively prioritise and manage demanding workloads due to my background in Operations. Can effectively work under pressure whilst still ensuring attention to detail and maximum efficiency.
-Passionate about technology, successfully completed an immersive 11-month software development training program focused on web development with a keen interest in back-end and cloud infrastructure.
-Excited to contribute my fresh perspectives and eagerness to learn to a dynamic software development team and seek an opportunity to grow professionally and make a meaningful contribution to innovative software projects.
-</div>  
-  
 
 
 
