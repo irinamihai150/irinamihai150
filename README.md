@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on E-commerce app
 
-- 🌱 I’m currently learning **tailwind**
+- 🌱 I’m currently learning **Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/irinamihai150](https://github.com/irinamihai150)
 
