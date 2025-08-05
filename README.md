@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Irina</h1>
 <h3 align="center">I am a Junior Full Stack software Developer</h3>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irinamihai150&label=Profile%20views&color=0e75b6&style=flat" alt="irinamihai150" width="200" height="100" /> </p>
 <p> 💻 Passionate about technology with an 11-month immersive software development training focused on web and cloud fundamentals ☁️.
 🚀Eager to apply my skills and enthusiasm to support technical teams, contribute to projects, and continue growing professionally in a dynamic environment.
 🔍Looking forward to opportunities where I can learn, collaborate, and add value.</p>
