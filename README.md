@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irinamihai150&label=Profile%20views&color=0e75b6&style=flat" alt="irinamihai150" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=irinamihai150&label=Profile%20views&color=0e75b6&style=flat" alt="irinamihai150" width="300" height="200" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irinamihai150" alt="irinamihai150" /></a> </p>
 
