@@ -5,19 +5,15 @@
 <h1 align="center">Hi 👋, I'm Irina</h1>
 <h3 align="center"> Aspiring Business Analyst</h3>
 
-<p> 💻 Passionate about technology with an 11-month immersive software development training focused on web and cloud fundamentals ☁️.
-🚀Eager to apply my skills and enthusiasm to support technical teams, contribute to projects, and continue growing professionally in a dynamic environment.
+<p> 💻 Passionate about technology with an 11-month immersive software development training 
+  focused on web and cloud fundamentals ☁️.
+🚀Eager to apply my skills and enthusiasm to support technical teams, 
+  contribute to projects, and continue growing professionally in a dynamic environment.
 🔍Looking forward to opportunities where I can learn, collaborate, and add value.</p>
-
-
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irinamihai150" alt="irinamihai150" /></a> </p>
 
-
 - 👨‍💻 All of my projects are available at [https://github.com/irinamihai150](https://github.com/irinamihai150)
-
-- 💬 Ask me about **my projects.**
 
 - 📫 How to reach me **irinamihai150@gmail.com**
 
