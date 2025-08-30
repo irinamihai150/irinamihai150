@@ -1,7 +1,7 @@
 
 ![irinamihai (6)](https://github.com/irinamihai150/irinamihai150/assets/104944750/739d8381-1efc-40e0-a854-440783473f25)
 <h1 align="center">Hi 👋, I'm Irina</h1>
-<h3 align="center">I am an Aspiring Business Analyst</h3>
+<h3 align="center"> Aspiring Business Analyst</h3>
 
 <p> 💻 Passionate about technology with an 11-month immersive software development training focused on web and cloud fundamentals ☁️.
 🚀Eager to apply my skills and enthusiasm to support technical teams, contribute to projects, and continue growing professionally in a dynamic environment.
