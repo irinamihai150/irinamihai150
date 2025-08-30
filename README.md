@@ -1,5 +1,5 @@
 
-![irinamihai (6)](https://github.com/irinamihai150/irinamihai150/assets/104944750/739d8381-1efc-40e0-a854-440783473f25)
+<img width="851" height="315" alt="banner" src="https://github.com/user-attachments/assets/3860dfe7-eac4-41b6-b1f6-4fbed8fcec47" />
 <h1 align="center">Hi 👋, I'm Irina</h1>
 <h3 align="center"> Aspiring Business Analyst</h3>
 
@@ -7,7 +7,7 @@
 🚀Eager to apply my skills and enthusiasm to support technical teams, contribute to projects, and continue growing professionally in a dynamic environment.
 🔍Looking forward to opportunities where I can learn, collaborate, and add value.</p>
 
-<img width="851" height="315" alt="banner" src="https://github.com/user-attachments/assets/3860dfe7-eac4-41b6-b1f6-4fbed8fcec47" />
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irinamihai150" alt="irinamihai150" /></a> </p>
