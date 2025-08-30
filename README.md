@@ -1,5 +1,5 @@
 
-<img width="851" height="315" alt="banner" src="https://github.com/user-attachments/assets/3860dfe7-eac4-41b6-b1f6-4fbed8fcec47" />
+<img width="700" height="315" alt="banner" src="https://github.com/user-attachments/assets/3860dfe7-eac4-41b6-b1f6-4fbed8fcec47" />
 <h1 align="center">Hi 👋, I'm Irina</h1>
 <h3 align="center"> Aspiring Business Analyst</h3>
 
