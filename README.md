@@ -3,7 +3,7 @@
 </center>
 
 <h1 align="center">Hi 👋, I'm Irina</h1>
-<h3 align="center"> Aspiring Business Analyst</h3>
+<h3 align="center">Business Analyst</h3>
 
 <p> 💻 Passionate about technology with an 11-month immersive software development training 
   focused on web and cloud fundamentals ☁️.
